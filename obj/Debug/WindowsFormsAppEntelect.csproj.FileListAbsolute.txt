@@ -1,0 +1,12 @@
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\bin\Debug\WindowsFormsAppEntelect.exe.config
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\bin\Debug\WindowsFormsAppEntelect.exe
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\bin\Debug\WindowsFormsAppEntelect.pdb
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\obj\Debug\WindowsFormsAppEntelect.csproj.AssemblyReference.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\obj\Debug\WindowsFormsAppEntelect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\obj\Debug\WindowsFormsAppEntelect.Form1.resources
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\obj\Debug\WindowsFormsAppEntelect.Properties.Resources.resources
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\obj\Debug\WindowsFormsAppEntelect.csproj.GenerateResource.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\obj\Debug\WindowsFormsAppEntelect.csproj.CoreCompileInputs.cache
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\obj\Debug\WindowsFormsAppEntelect.exe
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\obj\Debug\WindowsFormsAppEntelect.pdb
+C:\Users\Mpho\Desktop\KMR\SGILA\C#\OTHERS\WindowsFormsAppEntelect\obj\Debug\WindowsFormsAppEntelect.Form2.resources
